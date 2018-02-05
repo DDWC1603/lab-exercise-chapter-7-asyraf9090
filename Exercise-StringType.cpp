@@ -2,11 +2,12 @@
 //complete the program below. 
 
 #include <iostream>
-
+#include <string>
+using namespace std;
 int main()
 {
 
-	string myName="Mike";//write your name there.
+	string myName="ASYRAF";//write your name there.
 	//make a while loop until user input 'quit' to exit/end the program
 
 	(true)
@@ -30,5 +31,3 @@ int main()
 	}
 	return 0;
 }
-
-
